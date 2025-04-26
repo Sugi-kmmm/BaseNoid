@@ -1,5 +1,7 @@
 # ヒューマノイド開発プラットフォーム BaseNoid
 ## What's BaseNoid
+![BaseNoid_Overall_view](https://github.com/Sugi-kmmm/BaseNoid/blob/main/BaseNoid_Images/Overall_view.png)
+
 　BaseNoidは，低価格で本格的なヒューマノイドロボットを開発することを目的とした，ヒューマノイド開発プラットフォームです．[東京工業大学　ロボット技術研究会](https://rogiken.org/)が所持する工作機械（CNCフライス・3Dプリンタ）のみで作成できる上，必要な機械要素の入手性もきわめて高いことが特徴です．
 
 ## ファイル構成
@@ -65,7 +67,7 @@ Top
 | A5052材 t3 | 670円 | 1 | 670円 | 幅200mm 長さ170mm |
 | A5052材 t5 | 210円 | 1 | 210円 | 幅120mm 長さ50mm |
 
-合計金額：**65946**円
+合計金額（税込）：**65946**円
 
 ## ACT_Base_Circuitについて
 　BaseNoidでは，制御用基板としてACT_Base_Circuit（以下，ABC）というロボット技術研究会ACTで開発している多軸ロボット向け制御基板を用いています．
