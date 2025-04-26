@@ -82,4 +82,4 @@ Top
 ## LICENSE情報
 BaseNoidは以下のクリエイティブ・コモンズ・ライセンスにより保護されています．
 
-BaseNoid © 2025 by [Rei Sugihara](https://sugi-kmmm.github.io/collection.html) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+BaseNoid © 2025 by [Rei Sugihara](https://sugi-kmmm.github.io/index.html) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
