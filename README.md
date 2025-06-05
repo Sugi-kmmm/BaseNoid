@@ -78,6 +78,7 @@ Top
 
 ## iptファイルについて
 　BaseNoidは，Autodesk Inventor Professional 2026にて開発されています．
+ 
 　Inventor形式のファイルが必要な方は，[開発者HP内のコンタクトに記載された手段](https://sugi-kmmm.github.io/contact.html)nいよりお問い合わせください．
 
 ## コンタクト
