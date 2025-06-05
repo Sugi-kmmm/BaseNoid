@@ -76,6 +76,10 @@ Top
 
 　ABCを使用しない場合は，[秋月電子通商様のSTS3215商品ページ](https://akizukidenshi.com/catalog/g/g116312/)内で紹介されている[参考資料](https://akizukidenshi.com/goodsaffix/feetech_digital_servo_20220729.pdf)の7ページ目をご確認の上，ご自分で回路を実装していただけましたら幸いです．
 
+## iptファイルについて
+　BaseNoidは，Autodesk Inventor Professional 2026にて開発されています．
+　Inventor形式のファイルが必要な方は，[開発者HP内のコンタクトに記載された手段](https://sugi-kmmm.github.io/contact.html)nいよりお問い合わせください．
+
 ## コンタクト
 　技術的お問い合わせは，本リポジトリのIssueよりお願いいたします．
 
