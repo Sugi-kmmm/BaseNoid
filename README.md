@@ -71,6 +71,8 @@ Top
 
 ## ACT_Base_Circuitについて
 　BaseNoidでは，制御用基板としてACT_Base_Circuit（以下，ABC）というロボット技術研究会ACTで開発している多軸ロボット向け制御基板を用いています．
+　ABCリポジトリは[こちら](https://github.com/TokyoTech-SSR-ACT/ACT_Base_Circuit)です．
+　※現在，ABCはβ版の状態です．ご了承ください．
 
 　ABCを使用しない場合は，[秋月電子通商様のSTS3215商品ページ](https://akizukidenshi.com/catalog/g/g116312/)内で紹介されている[参考資料](https://akizukidenshi.com/goodsaffix/feetech_digital_servo_20220729.pdf)の7ページ目をご確認の上，ご自分で回路を実装していただけましたら幸いです．
 
