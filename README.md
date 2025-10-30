@@ -17,7 +17,9 @@ Top
 |-Making_Files                              製作に必要な展開済み板金モデル等
     |-Files_for_3DP                         3Dプリンタにより作成可能なパーツ類
     |   |-Torso                             Torso部分に必要なパーツ
-    |       |-Torso_3Dprint_parts.stp 
+    |   |   |-Torso_3Dprint_parts.stp 
+    |   |-Leg
+    |       |-Leg_3Dprint_parts.stp         Leg部分に必要なパーツ
     |
     |-Files_for_CNC_parts                   CNCフライスにより作成可能なパーツ類（部位ごとに分類）
     |   |-Arm                               Arm部分に必要なパーツ群
